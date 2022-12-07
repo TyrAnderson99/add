@@ -1,0 +1,25 @@
+
+
+div#div-1{
+   	
+	background-color: darkblue;
+	 color: white;
+}
+
+div#div-2{
+    
+     background-color: darkred;
+    color: white;
+	
+}
+
+.div{
+   
+   
+	 border-top: 5px solid darkred;
+	border-bottom:5px solid darkred;
+	border-left:5px solid white;
+	border-right:5px solid white;
+	margin:5px;
+	padding:10px;
+}
